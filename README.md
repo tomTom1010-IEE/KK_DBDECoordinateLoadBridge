@@ -1,3 +1,14 @@
+> [!IMPORTANT]
+> **Legacy standalone repository / 旧版独立仓库**
+>
+> Active development for the KK and KKS versions has moved to
+> [TomPlugin](https://github.com/tomTom1010-IEE/TomPlugin). This repository
+> remains available for historical source and releases only.
+>
+> KK 与 KKS 版本的后续开发已迁移至
+> [TomPlugin](https://github.com/tomTom1010-IEE/TomPlugin)。
+> 本仓库仅保留旧版源码和历史发布。
+
 # KKS_DBDECoordinateLoadBridge
 
 KKS_DBDECoordinateLoadBridge fixes DynamicBoneDistributionEditor data transfer when a Koikatsu Sunshine coordinate card is selectively loaded through Coordinate Load Option.
